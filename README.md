@@ -43,32 +43,26 @@
 
 ---
 
-## ⚡ Tech Stack (Animated)
+## ⚒️ Tech Stack (Animated)
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,bootstrap,tailwind" /><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,java,python,c,git,github,docker,aws" />
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Ankur-kumar007/Ankur-kumar007/main/animated-dev.gif" width="500" />
-<!-- I can generate this GIF for you if needed -->
-
 </div>
 
 ---
 
-## 🐍 Contributions Snake (Animated)
+## 🎮 Fun Animation
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Ankur-kumar007/Ankur-kumar007/output/github-contribution-grid-snake.svg" />
-
+  <img src="https://media.giphy.com/media/26Ff9b8w5r6W2L6Oc/giphy.gif" width="350" />
 </div>
 
 ---
 
-## 📊 GitHub Stats (Animated Cards)
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -82,17 +76,8 @@
 
 ---
 
-## 🎉 Fun Animated Banner  
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" />
-</div>
-
----
-
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Ankur-kumar007&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
-
----
